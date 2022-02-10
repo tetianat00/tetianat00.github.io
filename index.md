@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Apps Pages
 
 You can use the [editor on GitHub](https://github.com/tetianat00/tetianat00.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
